@@ -17,13 +17,13 @@ input				output
 	Insert:2			True
 	Insert:3			True
 	Insert:4			True
-	PrintTree			2 1 3 \*4
+	PrintTree			2 1 3 *4
 	Contains:4			True
 	Insert:5			True
 	Insert:6			True
 	Insert:7			True
 	Insert:7			False
-	PrintTree			2 1 \*4 3 6 \*5 \*7
+	PrintTree			2 1 *4 3 6 *5 *7
 	Insert				Error in Line: Insert
 	oops				Error in Line: oops
 ```
