@@ -1,11 +1,3 @@
-/*
- * Name:		John Dixon
- * Class:		CS 3345
- * Section:		004
- * Semester:	Spring 2018
- * Project:		Project 4 - an implementation of a Red-Black BST
- */
-
 import java.util.StringJoiner;
 
 /**
